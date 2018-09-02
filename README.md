@@ -1,2 +1,2 @@
 # Gestion-Commerciale
-gestion commerciale d'une grande grande moulin de blé 
+gestion commerciale d'une grande moulin de blé 
